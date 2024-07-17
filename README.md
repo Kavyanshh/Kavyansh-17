@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kavyansh
 - 👀 I’m interested in pen testing or ethical hacking
-- 🌱 I’m currently learning Ethical hacking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Cyber Security and Web Development 
+- 💞️ I’m looking to collaborate on Web Development and python scripts
+- 📫 How to reach me 
 
 <!---
 Kavyansh/Kavyansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
